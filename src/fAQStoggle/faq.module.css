@@ -1,0 +1,21 @@
+.faq{
+
+    background-color: rgb(215, 190, 190);
+    border-radius: 1rem;
+    padding: 0.7rem;
+    margin:0.6rem;
+    box-shadow: 0.3rem rgb(241, 231, 231);
+}
+
+.faq div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.faq button {
+    border-radius: 40%;
+    height: 22px;
+   margin-top: 1.4rem;
+   background-color: rgb(26, 25, 25);
+   color: white;
+}
